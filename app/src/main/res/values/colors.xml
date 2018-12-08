@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccentSecondary">#90FF4081</color>
+    <color name="colorSecondary">#33b5e5</color>
+
+    <color name="negro_semitransparente">#B2000000</color>
+    <color name="negro_transparente">#33000000</color>
+    <color name="negro_label">#50000000</color>
+    <color name="negro">#000000</color>
+    <color name="gray">#898989</color>
+    <color name="gray_ligth">#EBEBEB</color>
+    <color name="white">#fafafa</color>
+    <color name="white_all">#ffffff</color>
+
+    <!--swiperefreshlayout -->
+    <color name="s1">@color/colorAccent</color>
+    <color name="s2">@color/colorSecondary</color>
+    <color name="s3">#ffef18</color>
+    <color name="s4">#AA66CC</color>
+
+
+</resources>

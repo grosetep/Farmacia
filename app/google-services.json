@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "445787997162",
+    "firebase_url": "https://deliverydemo-4b964.firebaseio.com",
+    "project_id": "deliverydemo-4b964",
+    "storage_bucket": "deliverydemo-4b964.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445787997162:android:113a6ca1c90f8fa0",
+        "android_client_info": {
+          "package_name": "com.estrategiamovilmx.sales.farmacia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445787997162-8kpk7j5bie4o2lqt4lvciusma208m44s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.estrategiamovilmx.sales.farmacia",
+            "certificate_hash": "d6b63f5593fa53b12a78de43363c1d3442da6d22"
+          }
+        },
+        {
+          "client_id": "445787997162-7op1kkv8m58dh0krrc7n8dh9079i516d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyzeACdwV96IpuJnlMqiKfiS_FTTHhTGY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445787997162-7op1kkv8m58dh0krrc7n8dh9079i516d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

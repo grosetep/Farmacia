@@ -1,0 +1,198 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Rapi Pedidos</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_cart">Carrito</string>
+    <string name="action_refresh">Actualizar</string>
+    <string name="action_days">Días a mostrar</string>
+    <string name="action_session">Inicia Sesión o Regístrate</string>
+    <string name="action_edit_profile">Perfil</string>
+    <string name="action_location">Ubicación</string>
+    <string name="action_orders">Pedidos</string>
+    <string name="action_shipping">Entregas</string>
+    <string name="action_close">Cerrar Sesión</string>
+
+
+    <string name="promt_search_services">Buscar...</string>
+    <string name="promt_category_search">Categorías...</string>
+    <string name="detail_title_category">Categoría</string>
+    <string name="detail_title_availability">Existencias</string>
+    <string name="text_description_detail_title">Descripción</string>
+
+    <string name="no_connection">No hemos podido conectar con el Servidor, inténtalo nuevamente.</string>
+    <string name="no_subscription_valid">Estamos en mantenimiento, disculpa las molestias.</string>
+    <string name="promt_publications_not_found">No hay productos por el momento</string>
+    <string name="prompt_action_retry_search">INTENTAR DE NUEVO</string>
+    <string name="prompt_action_exit">SALIR</string>
+    <string name="app_message_splash">El eXtra que le faltaba a tu salud</string>
+    <string name="prompt_thanks">¡ Gracias por tu compra !</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <!-- Connection errors messages-->
+    <string name="generic_server_down">Ups, el servicio no esta disponible por el momento.</string>
+    <string name="generic_error">Servicio no disponible.</string>
+    <string name="generic_server_timeout">El servicio no esta disponible o puede estar experimentando problemas de conexión.</string>
+    <string name="auth_failed">Error de autenticación al conectarse.</string>
+    <string name="no_network_connection">Verifique que tiene señal de red</string>
+    <string name="validation_errors">Verifique la información</string>
+    <string name="parsing_failed">Error de procesamiendo de datos</string>
+
+
+    <string name="text_promt_out_of_stock">AGOTADA</string>
+    <string name="no_internet">Verifique que tiene acceso a Internet y vuelva a intentar.</string>
+
+    <string name="text_promt_in">"En "</string>
+
+    <string name="text_title_shipping">Dirección de envío</string>
+
+    <!-- Buttons -->
+    <string name="text_button_next">Siguiente</string>
+    <string name="text_button_previous">Anterior</string>
+    <string name="text_button_done">Confirmar</string>
+    <string name="text_button_orders">Ver Pedidos</string>
+    <string name="text_button_order">Hacer pedido</string>
+
+    <!-- labels -->
+    <string name="promt_results_not_found">No se encontraron registros</string>
+    <string name="promt_where">¿Donde quieres recibirlo?</string>
+    <string name="promt_location_ok">Tu pedido será enviado a:</string>
+    <string name="title_template_step">Step <xliff:g id="step_number">%1$d</xliff:g>: Lorem
+        Ipsum</string>
+    <string name="promt_hint_cp">Código Postal</string>
+    <string name="promt_hint_street">Calle</string>
+    <string name="promt_hint_num_ext">Número Exterior</string>
+    <string name="promt_hint_no_num">Sin número</string>
+    <string name="promt_hint_int">Número interior (opcional)</string>
+    <string name="promt_hint_between_streets">Entre calles (opcional)</string>
+    <string name="promt_hint_reference">Referencia</string>
+    <string name="promt_hint_colony">Colonia</string>
+    <string name="promt_hint_gmaps_point">Elije lugar</string>
+    <string name="promt_hint_name">Nombre</string>
+    <string name="promt_hint_number">Teléfono de contacto</string>
+
+    <!-- Contact -->
+    <string name="promt_who">¿Quién recibirá el paquete?</string>
+    <string name="promt_who_message">Deja un contacto para que en caso de tener algún problema con la entrega podamos avisarte</string>
+    <!-- Payment-->
+    <string name="promt_payment_method_question">¿Como quieres pagar?</string>
+    <!-- Review-->
+    <string name="promt_review_title">Confirma tu Compra</string>
+    <string name="promt_loading_create_order">Enviando pedido...\nEstará listo en breve</string>
+    <string name="promt_review_error">Ups, álgo salió mal, por favor intenta nuevamente</string>
+    <!-- buttons -->
+    <string name="text_add_locations_edit_1">Agrega</string>
+    <string name="text_add_locations_edit">Nueva</string>
+
+    <string name="text_add_contact_edit_1">Nuevo</string>
+    <string name="text_add_contact_edit">Contacto</string>
+
+
+    <string name="title_activity_maps">Map</string>
+    <string name="prompt_loading_map">Cargando Mapa...</string>
+
+    <string name="promt_button_ready">Listo</string>
+
+    <!-- Error messages-->
+    <string name="error_field_required">Campo obligatorio</string>
+    <string name="error_no_data">Sin información</string>
+
+    <!-- Confirm -->
+    <string name="title_conf_shipping">Entrega</string>
+    <string name="title_conf_contact">Contactar a</string>
+    <string name="title_conf_payment_method">Método de pago</string>
+    <string name="title_conf_total">Total a pagar</string>
+    <!-- Congrats-->
+    <string name="shipping_message">Te avisaremos cuando esté en camino a <xliff:g id="shipping_address">%1$s</xliff:g></string>
+    <string name="shipping_phone">5547642262</string>
+    <string name="shipping_customer_care_title">Atención a Clientes</string>
+    <string name="shipping_call">Llamar</string>
+    <string name="shipping_address">La dirección indicada</string>
+    <string name="congrats_order">No. Pedido <xliff:g id="order">%1$s</xliff:g></string>
+    <!-- Shopping cart-->
+    <string name="promt_shopping_cart_empty">Carrito vacío</string>
+    <string name="title_activity_shopping_cart">Carrito</string>
+    <string name="button_text_activity_shopping_cart">Ver Carrito</string>
+    <string name="title_out_of_stock">Agotado</string>
+    <string name="title_total">Gran Total /</string>
+    <!-- orders-->
+    <string name="title_activity_orders_client">Mis Pedidos</string>
+    <string name="title_activity_orders_deliver_man">Pedidos por entregar</string>
+    <string name="title_activity_orders_admin">Administrar pedidos</string>
+    <string name="promt_review">En revision</string>
+    <string name="promt_accepted">Aceptado</string>
+    <string name="promt_rejected">Rechazado</string>
+    <string name="promt_on_way">En Camino</string>
+    <string name="promt_no_delivered">No entregado</string>
+    <string name="promt_delivered">Entregado</string>
+    <string name="promt_cancel">Cancelado</string>
+    <string name="promt_num_order">Pedido: <xliff:g id="order">%1$s</xliff:g></string>
+    <string name="promt_button_accept_order">Aceptar</string>
+    <string name="promt_button_recject_order">Rechazar</string>
+    <string name="promt_button_take_order">Tomar</string>
+    <string name="promt_button_delivered_order">Listo</string>
+    <string name="promt_button_no_delivered_order">No Entregado</string>
+    <string name="promt_button_cancel_order">Cancelar pedido</string>
+    <string name="promt_error">Ha ocurrido un error, inicie sesión nuevamente</string>
+    <string name="promt_hint_comment">Agrega comentario</string>
+    <string name="promt_hint_accepted_comment">Pedido aceptado !, si desea rechazar agregue comentario para el cliente</string>
+    <string name="promt_days">Días</string>
+    <string name="promt_filter_orders_title">Filtrar</string>
+
+    <!-- login-->
+    <string name="hint_text_email">Email</string>
+    <string name="hint_text_pwd">Password</string>
+    <string name="prompt_show_password">Mostrar Password</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="prompt_button_signup">Crear Cuenta</string>
+    <string name="prompt_link_password"><u>Password</u></string>
+    <string name="promt_password_recovery_title">Restablecer contraseña</string>
+    <string name="error_invalid_password">Proporcione contraseña válida (De 4 a 21 caract.)</string>
+    <string name="error_invalid_password_not_equal">Constraseñas no coinciden</string>
+    <string name="error_incorrect_password">Password incorrecto</string>
+    <string name="error_invalid_email">Correo inválido</string>
+    <string name="promt_password_recovery_text">Proporciona tu email registrado para poder enviarte instrucciones</string>
+    <string name="send_notification">Enviar</string>
+    <string name="error_invalid_login"><xliff:g id="error">%1$s</xliff:g></string>
+    <string name="error_generic">Algo salió mal</string>
+    <string name="promt_loading">Estará listo en breve\nPor favor espera..</string>
+    <string name="text_user_guess">Invitado</string>
+    <string name="text_user_guess_tip">Completa tu perfil</string>
+    <string name="promt_password_recovery_message">Instruccines para recuperar tu acceso han sido enviadas a tu correo.</string>
+
+    <!-- profile -->
+    <string name="title_activity_profile">Edita tu perfil</string>
+    <string name="number_locations_title_general">General</string>
+    <string name="prompt_profile_security">Seguridad</string>
+    <string name="prompt_password_change_title">Cambiar contraseña</string>
+    <string name="prompt_your_name">Nombre</string>
+    <string name="pick_image_intent_text">Foto de perfil</string>
+    <string name="text_prompt_profile_updated">Actualización exitosa</string>
+    <string name="prompt_password_new">Clave nueva</string>
+    <string name="prompt_password_new_confirm">Repetir clave nueva</string>
+    <string name="action_change_password">Modificar</string>
+    <string name="text_prompt_image_error">Imagen no actualizada, por favor intenta nuevamente</string>
+    <string name="text_prompt_image_updated">Imagen de perfíl actualizada</string>
+
+    <!-- location -->
+    <string name="text_prompt_location">Nuestra ubicación</string>
+
+    <!--Notifications -->
+    <string name="action_notify_reply">Ver Pedidos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- signuot-->
+    <string name="promt_loading_signout">Bye...</string>
+
+    <!-- detail order-->
+    <string name="promt_title_activity_detail_order">Detalle de la orden</string>
+    <string name="order_detail_title">Orden</string>
+    <string name="order_detail_shipping">Estatus</string>
+    <string name="order_detail_client">Cliente</string>
+    <string name="order_detail_">Cliente</string>
+    <string name="order_address">Dirección Entrega</string>
+    <string name="order_contact">Contacto a la entrega</string>
+    <string name="order_breakdown">Detalle</string>
+    <string name="title_activity_maps2">Map</string>
+</resources>
